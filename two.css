@@ -81,10 +81,10 @@ li.active{
 @media  (max-width: 620px)
 {
     .slider-container{
-        width: 400px;
+        width: 350px;
     }
     .slider-controls{
-        width: 400px;
+        width: 350px;
   
     }
 }
