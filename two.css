@@ -50,7 +50,7 @@ body{
 }
 .slider-controls #prev ,
 .slider-controls #next {
-    width: 17%;
+    width: 25%;
     text-align: center;
     background-color: #009688;
     color: white;
